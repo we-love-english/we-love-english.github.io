@@ -6,5 +6,3 @@ permalink: /about/
 
 This is the website that recording our learning in English.
 
-
-[jekyll-organization]: https://github.com/jekyll
