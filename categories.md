@@ -1,7 +1,6 @@
 ---
 title: Categories
 layout: categories
-permalink: /categories/
+excerpt: "Category index"
+aside: true
 ---
-
-This is the website that recording our learning in English.
