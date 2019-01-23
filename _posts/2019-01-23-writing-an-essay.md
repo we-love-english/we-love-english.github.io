@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Writing an essay"
-date:   2019-01-23 20:15:59 +0800
-categories: words
+title: Writing an essay
+categories:
+- Words
+feature_image: "https://picsum.photos/2560/600?image=733"
 ---
-
-# Writing An Essay
 - literature review
 - electronic 
 - electronically
